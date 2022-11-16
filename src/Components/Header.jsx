@@ -16,13 +16,13 @@ const Header = () => {
                         metaverse, get a chance to turn your imagination to reality at your
                         comfort zone
                     </p>
-                    <div className=" mt-8 flex h-[54px] xl:w-full">
+                    <div className=" mt-8 flex h-[54px] xl:w-11/12">
                         <input
-                            className="w-[390px] p-5 text-lightGray border-solid border border-lightGray border-r-0 rounded-l-lg focus:border-none focus:ring-1 focus:ring-lightGray focus:outline-none"
+                            className="w-2/3 p-5 text-lightGray border-solid border border-lightGray border-r-0 rounded-l-lg focus:border-none focus:ring-1 focus:ring-lightGray focus:outline-none"
                             type="text"
                             placeholder="Search for location"
                         />
-                        <button className=" h-[54px] w-[230px] text-white bg-primary px-5 rounded-r-lg">
+                        <button className="h-full w-1/3 text-white bg-primary px-5 rounded-r-lg">
                             Search
                         </button>
                     </div>

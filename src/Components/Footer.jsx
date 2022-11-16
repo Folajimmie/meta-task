@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='bg-black'>
         <PageLayout>
-        <div className="md:flex md:justify-between pt-8">
+        <div className="md:flex md:justify-between pt-8 pb-5">
           <div>
             <Link to="/">
               <img className="mx-auto md:mx-0" src={Logo2} alt="" />

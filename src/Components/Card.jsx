@@ -4,9 +4,9 @@ import Star from '../Assets/star.png';
 
 const Card = ({ image }) => {
   return (
-    <div className='w-[292px] h-[372px] p-4 border-solid border border-lightGray rounded-3xl'>
+    <div className='p-4 border-solid border border-lightGray w-64 lg:w-56 xl:w-64 rounded-3xl'>
         <img 
-            className='w-full rounded-[8px]' 
+            className='w-full border-solid rounded-[8px]' 
             src={image} 
             alt="" 
         />

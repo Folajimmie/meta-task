@@ -19,7 +19,7 @@ const Metanfts = () => {
                     </button>
                 </div>
 
-                <div className='md:w-1/2 lg:w-3/5 xl:w-[704px] h-[574.85px] mt-[100px]'>
+                <div className='pb-5 md:w-1/2 lg:w-3/5 xl:w-[704px] mt-[100px]'>
                     <img src={Metapic} alt="" />
                 </div>
             </div>
